@@ -60,8 +60,8 @@ Paste the new IP address you copied and sign in.
                       <p>
 <img src="https://i.imgur.com/tiNgjE3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
                         <p>
-You are now connected. Use the command prompt "ipconfig" to explore network protocols.
-                          <p>
+You are now connected! Use the command prompt "ipconfig" to explore network protocols.
+                       
 Once you are finished, disconnect and delete the resource group in Azure when finished.
                             <p>
-                              End.
+                             
