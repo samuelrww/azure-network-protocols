@@ -24,7 +24,7 @@ Sign into you Azure account.
 <p>
   Add a new virtual machine. Set up within the Rescource group you just created. 
 <p>
-  <img src="https://i.imgur.com/mXKM6Si.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FXHatYH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
   <p>
     
@@ -34,7 +34,7 @@ Set your location, image, size of your virutal computer. (Example: US East US, W
 <P>
 Check box next to "Licensing". Click "Next and Create" 
 <p>
-<img src="https://i.imgur.com/SWOULz8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NjYAG7u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <p>
     <p>
       
@@ -42,10 +42,10 @@ Wait to confirm validation passed. Create.
       <p>
         Once finished go back to virtual computer created and view specs. Copy public IP address
       <p>
-<img src="https://i.imgur.com/hPgVDNR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/RamCGqi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
         <p>
           <p>
-<img src="https://i.imgur.com/Z2sjDuF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/ARMiy63.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
             <p>
               <p>
             
@@ -58,7 +58,7 @@ On your own PC,(Windows OS) Go to Remote Desktop and connect to the virtual comp
 Paste the new IP address you copied and sign in.
                                         <p>
                       <p>
-<img src="https://i.imgur.com/hBVMN24.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/D5PSTLm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
                         <p>
 You are now connected. Use the command prompt "ipconfig" to explore network protocols.
                           <p>
