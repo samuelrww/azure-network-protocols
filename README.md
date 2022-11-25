@@ -58,7 +58,7 @@ On your own PC,(Windows OS) Go to Remote Desktop and connect to the virtual comp
 Paste the new IP address you copied and sign in.
                                         <p>
                       <p>
-<img src="https://i.imgur.com/D5PSTLm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/tiNgjE3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
                         <p>
 You are now connected. Use the command prompt "ipconfig" to explore network protocols.
                           <p>
