@@ -19,26 +19,26 @@ This guide outlines the steps to creating a virtual machine in Azure and connect
 <p>
   <p>
     
-Sign into you Azure account. 
-    <p>First set up a Resouce Group and name the group. 
+1.) Sign into you Azure account. 
+    <p>a.) First set up a Resouce Group and name the group. 
 <p>
-  Add a new virtual machine. Set up within the Rescource group you just created. 
+  c.) Add a new virtual machine. Set up within the Rescource group you just created. 
 <p>
 <img src="https://i.imgur.com/FXHatYH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
   <p>
     
-Set your location, image, size of your virutal computer. (Example: US East US, Windows 10 Pro with Size 2vcpus 16GB)
+1.) Set your location, image, size of your virutal computer. (Example: US East US, Windows 10 Pro with Size 2vcpus 16GB)
     <p>
-      Under the Administrator section, set up a user and password and be sure to keep information close. 
+      b.) Under the Administrator section, set up a user and password and be sure to keep information close. 
 <P>
-Check box next to "Licensing". Click "Next and Create" 
+c.) Check box next to "Licensing". Click "Next and Create" 
 <p>
 <img src="https://i.imgur.com/NjYAG7u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <p>
     <p>
       
-Wait to confirm validation passed. Create.
+d.) Wait to confirm validation passed. Create.
       <p>
         Once finished go back to virtual computer created and view specifications. Copy the public IP address
       <p>
@@ -51,7 +51,7 @@ On your own PC,) Go to Remote Desktop and connect to the virtual computer you ju
                  
 Paste the new IP address you copied and sign in.
                                        
-                      <p>
+                     
 <img src="https://i.imgur.com/tiNgjE3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
                         <p>
 You are now connected! Use the command prompt "ipconfig" to explore network protocols.
