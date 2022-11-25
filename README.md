@@ -30,7 +30,7 @@ Sign into you Azure account.
     
 Set your location, image, size of your virutal computer. (Example: US East US, Windows 10 Pro with Size 2vcpus 16GB)
     <p>
-      Under the Administrator section, set up a user and password (write down) 
+      Under the Administrator section, set up a user and password and be sure to keep information close. 
 <P>
 Check box next to "Licensing". Click "Next and Create" 
 <p>
@@ -40,23 +40,17 @@ Check box next to "Licensing". Click "Next and Create"
       
 Wait to confirm validation passed. Create.
       <p>
-        Once finished go back to virtual computer created and view specs. Copy public IP address
+        Once finished go back to virtual computer created and view specifications. Copy the public IP address
       <p>
 <img src="https://i.imgur.com/RamCGqi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
         <p>
           <p>
 <img src="https://i.imgur.com/ARMiy63.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-            <p>
-              <p>
-            
-<h2>Connecting to the Virtual Computer Remotely</h2>
-            <p>
-          <p>
-On your own PC,(Windows OS) Go to Remote Desktop and connect to the virtual computer you just created.
-                    <p>
-                      
+          
+On your own PC,) Go to Remote Desktop and connect to the virtual computer you just created.
+                 
 Paste the new IP address you copied and sign in.
-                                        <p>
+                                       
                       <p>
 <img src="https://i.imgur.com/tiNgjE3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
                         <p>
